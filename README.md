@@ -10,3 +10,4 @@ Useful links for learning "to github"
 GitHub Guides - https://guides.github.com/
 GitHub On Demand Training - https://services.github.com/on-demand/
 GitHub YouTube - https://www.youtube.com/githubguides
+GitHub Desktop - https://help.github.com/desktop-beta/guides/
